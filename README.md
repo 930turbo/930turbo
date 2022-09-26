@@ -1,4 +1,4 @@
-<img align="left" hspace="20" vspace="20" src="http://images6.fanpop.com/image/photos/41600000/Bat-halloween-41600774-160-160.gif" width="200" height="200">
+<img align="left" hspace="20" vspace="0" src="http://images6.fanpop.com/image/photos/41600000/Bat-halloween-41600774-160-160.gif" width="200" height="200">
 </br>
 </br>
 </br>
