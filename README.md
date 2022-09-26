@@ -1,8 +1,4 @@
-<img style="float: left; padding: 5px;" src="http://images6.fanpop.com/image/photos/41600000/Bat-halloween-41600774-160-160.gif"/>
-
-</br>
-</br>
-</br>
+<p><img src="http://images6.fanpop.com/image/photos/41600000/Bat-halloween-41600774-160-160.gif" height="100" width="100"></p>
 
 [![twitter](https://img.shields.io/badge/-@gvxnnv-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/gvxnnv)  
-[![linkedin](https://img.shields.io/badge/-@gianni-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/giancarlocoelho/)  
+[![linkedin](https://img.shields.io/badge/-@gianni-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/giancarlocoelho/)
