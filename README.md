@@ -1,4 +1,4 @@
-<img align="left" src="https://i.imgur.com/JEwekIb.gif" width="500" height="230">
+<img align="left" src="https://i.imgur.com/JEwekIb.gif" width="300" height="230">
 </br>
 </br>
 
