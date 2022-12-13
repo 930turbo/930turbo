@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203195707/80446f3cd96a9d047e5bdba233c1c82f83f69d29.gif" width="500" height="150">
+<img align="left" src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203195707/80446f3cd96a9d047e5bdba233c1c82f83f69d29.gif" width="500" height="200">
 </br>
 </br>
 
